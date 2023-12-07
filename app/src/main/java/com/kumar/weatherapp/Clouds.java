@@ -6,7 +6,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 import javax.annotation.processing.Generated;
-
+//whhiweijwiojdoiqjdwoqijdioqwjdoiqdjoqidjoqwijdoijwdoiqwo
 @Generated("jsonschema2pojo")
 public class Clouds {
 
