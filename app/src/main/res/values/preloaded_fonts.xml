@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alef</item>
+        <item>@font/koho_extralight</item>
+        <item>@font/markazi_text</item>
+        <item>@font/montserrat_subrayada</item>
+        <item>@font/poppins_medium</item>
+        <item>@font/poppins_thin</item>
+        <item>@font/vesper_libre</item>
+    </array>
+</resources>
