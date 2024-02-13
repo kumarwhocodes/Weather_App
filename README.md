@@ -10,11 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1BOxauLT2oF6M8cQGDxRriZiYxqvl_UaR/view?usp=drive_link" alt="project-screenshot" width="200" height="400/">
+<img src="https://res.cloudinary.com/dphjpd7gi/image/upload/v1707817496/Weather%20App%20using%20Java/Screenshot_20231208_150907_nwqtbt.png" alt="project-screenshot" width="200" height="450/">
 
-<img src="https://drive.google.com/file/d/1vgN81PBfgfY9Xu2CUqxDPeQzADg95o9y/view?usp=sharing" alt="project-screenshot" width="200" height="400/">
+<img src="https://res.cloudinary.com/dphjpd7gi/image/upload/v1707817496/Weather%20App%20using%20Java/Screenshot_20231208_150849_nv3gxi.png" alt="project-screenshot" width="200" height="450/">
 
-<img src="https://drive.google.com/file/d/1JNR8ZoQ5sdfPEaXufNJ2SLpYdFaeHtyR/view?usp=sharing" alt="project-screenshot" width="200" height="400/">
+<img src="https://res.cloudinary.com/dphjpd7gi/image/upload/v1707817496/Weather%20App%20using%20Java/Screenshot_20231208_150754_ocxa13.png" alt="project-screenshot" width="200" height="450/">
 
   
   
